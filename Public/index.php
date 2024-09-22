@@ -11,6 +11,7 @@ include "./../App/configuracao.php";
     <title> <?=APP_NOME?></title>
     <link rel="stylesheet" type="text/css" href="<?=URL?>/public/css/estilo.css"/>
     <link rel="stylesheet" type="text/css" href="<?=URL?>/public/bootstrap/css/bootstrap.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 </head>
 <body>
 
